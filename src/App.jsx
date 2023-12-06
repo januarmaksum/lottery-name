@@ -111,7 +111,7 @@ function App() {
           </div>
 
           <div className="text-3xl mt-8">
-          {uiProps.displayProgressBarr && "loading..."}
+            {uiProps.displayProgressBarr && "loading..."}
           </div>
         </div>
         <div className="text-right">
