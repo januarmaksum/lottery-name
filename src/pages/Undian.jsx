@@ -1,21 +1,23 @@
-import ActionsApp2 from "../components/ActionsApp2";
+import ActionsApp from "../components/ActionsApp";
 import axios from "axios";
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense, lazy } from "react";
 import useSWR from "swr";
 import { GET_PEGAWAI, GET_PEMENANG, POST_PEGAWAI } from "../utils/utils";
-import bgImage1 from "../assets/bg5.png";
-import Confetti from "../components/Confetti";
+import bgImage from "../assets/bg.png";
 import Swal from "sweetalert2";
 import ListWinners from "../components/ListWinners";
 import Error from "../components/Error";
 import Header from "../components/Header";
+import Title from "../components/Title";
 
 const fetcher = (url) => axios.get(url).then((res) => res.data.data);
 
-export default function Demodua() {
+// lazy component
+const Confetti = lazy(() => import("../components/Confetti"));
+
+export default function Undian() {
   // states
   const [pegawai, setPegawai] = useState(null);
-  const [winners, setWinners] = useState([]);
   const [runParticle, setRunParticle] = useState(false);
 
   const [uiProps, setUiProps] = useState({
@@ -105,8 +107,8 @@ export default function Demodua() {
     Swal.fire({
       width: 800,
       title: isDetail
-        ? "<span style='font-size: 2rem;'>🎉 Detail Pemenang 🎉</span>"
-        : "<span style='font-size: 2rem;'>🎉 Selamat kepada 🎉</span>",
+        ? "<span style='font-size: 2rem; color: black;'>🎉 DETAIL PEMENANG 🎉</span>"
+        : "<span style='font-size: 2rem; color: black;'>🎉  SELAMAT KEPADA 🎉</span>",
       html: content.body,
       allowOutsideClick: false,
       backdrop: false,
@@ -157,29 +159,25 @@ export default function Demodua() {
       postData(pegawai);
       setRunParticle(true);
       modal();
-      setWinners([...dataPemenang, pegawai]);
     }
   }, [currentIndex, pegawai, isRunning]);
-
-  useEffect(() => {
-    if (dataPemenang?.length > 0 && !isRunning) {
-      setWinners(dataPemenang);
-    }
-  }, [dataPemenang, isRunning]);
 
   if (errorGetPegawai) return <Error />;
 
   return (
     <>
       <Header />
-      <Confetti run={runParticle} />
-      {winners.length > 0 && (
-        <ListWinners winners={winners} handleClick={handleDetail} />
+      <Suspense fallback={""}>
+        <Confetti run={runParticle} />
+      </Suspense>
+      {dataPemenang && dataPemenang.length > 0 && (
+        <ListWinners winners={dataPemenang} handleClick={handleDetail} />
       )}
       <div
-        style={{ backgroundImage: `url(${bgImage1})` }}
-        className="mx-auto h-screen bg-no-repeat bg-cover bg-bottom pt-80"
+        style={{ backgroundImage: `url(${bgImage})` }}
+        className="mx-auto h-screen bg-no-repeat bg-cover bg-bottom flex flex-col items-center justify-center"
       >
+        <Title />
         <div className="flex justify-center flex-col items-center">
           <div className="c-subscribe-box u-align-center">
             <div className="rainbow">
@@ -202,7 +200,7 @@ export default function Demodua() {
               </div>
             </div>
           </div>
-          <ActionsApp2
+          <ActionsApp
             uiProps={uiProps}
             isLoading={isLoading}
             handleStart={handleStart}
