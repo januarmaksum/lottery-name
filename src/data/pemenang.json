@@ -1,0 +1,677 @@
+{
+  "status": 200,
+  "messages": "Penarikan Data Seluruh Pemenang",
+  "data": [
+    {
+      "no": 1,
+      "undian_id": 70,
+      "pegawai_id": 128,
+      "namalengkap": "Desy Natalya, AMK",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Gambir",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 2,
+      "undian_id": 69,
+      "pegawai_id": 1091,
+      "namalengkap": "Deana Rosaria Indah, S.KH",
+      "nama_unit_kerja": "Instalasi Rawat Jalan ",
+      "nama_subunit_kerja": "Rawat Jalan Ibu",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 3,
+      "undian_id": 68,
+      "pegawai_id": 145,
+      "namalengkap": "drg. Dina Adrianti, Sp.KG",
+      "nama_unit_kerja": "Kelompok Staf Medik Gigi dan Mulut",
+      "nama_subunit_kerja": "KK Konservasi Gigi",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 4,
+      "undian_id": 67,
+      "pegawai_id": 399,
+      "namalengkap": "Lilis Komariah, S.Kp, M.Kes, Sp. Mat",
+      "nama_unit_kerja": "Tim Kerja Perencanaan dan Evaluasi Program",
+      "nama_subunit_kerja": "Tim Kerja Perencanaan dan Evaluasi Program",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 5,
+      "undian_id": 66,
+      "pegawai_id": 22676,
+      "namalengkap": "Heri Novianto, A.Md.Kep",
+      "nama_unit_kerja": "Instalasi Gawat Darurat",
+      "nama_subunit_kerja": "Instalasi Gawat Darurat",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 6,
+      "undian_id": 65,
+      "pegawai_id": 580,
+      "namalengkap": "Nurul Susilowati, Amd. KL",
+      "nama_unit_kerja": "Instalasi Kesehatan Lingkungan dan Keselamatan dan Kesehatan Kerja Rumah Sakit",
+      "nama_subunit_kerja": "Sub Instalasi Kesehatan Lingkungan Rumah Sakit",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 7,
+      "undian_id": 64,
+      "pegawai_id": 1144,
+      "namalengkap": "Hanna Florida Sianturi, S.ST.Pa",
+      "nama_unit_kerja": "Tim Kerja Pelaksanaan Keuangan",
+      "nama_subunit_kerja": "Sub Tim Kerja Perbendaharaan",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 8,
+      "undian_id": 63,
+      "pegawai_id": 1005,
+      "namalengkap": "Hari Risdiyanto, A.Md.Pk",
+      "nama_unit_kerja": "Instalasi Rekam Medik",
+      "nama_subunit_kerja": "Layanan Rekam Medik dan Informasi Kesehatan",
+      "kategori_pegawai": "PPPK",
+      "keterangan_menang": null
+    },
+    {
+      "no": 9,
+      "undian_id": 62,
+      "pegawai_id": 23007,
+      "namalengkap": "Tevin Dean Ramadhan, S.Tr.Kom",
+      "nama_unit_kerja": "Instalasi Sistem Informasi Manajemen Rumah Sakit",
+      "nama_subunit_kerja": "Instalasi Sistem Informasi Manajemen Rumah Sakit",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 10,
+      "undian_id": 61,
+      "pegawai_id": 463,
+      "namalengkap": "Minawati, AMK",
+      "nama_unit_kerja": "Instalasi Rawat Intensif",
+      "nama_subunit_kerja": "Instalasi Rawat Intensif",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 11,
+      "undian_id": 60,
+      "pegawai_id": 22871,
+      "namalengkap": "Langgeng Wahyu Utomo, A.Md.KG",
+      "nama_unit_kerja": "Instalasi Rawat Jalan ",
+      "nama_subunit_kerja": "Poli Gigi dan Mulut",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 12,
+      "undian_id": 59,
+      "pegawai_id": 22925,
+      "namalengkap": "Dr. dr. Nurin Aisyiyah Listyasari, M.Si.Med",
+      "nama_unit_kerja": "Kelompok Staf Medik Spesialis Lain",
+      "nama_subunit_kerja": "KK Genetik",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 13,
+      "undian_id": 58,
+      "pegawai_id": 22353,
+      "namalengkap": "Ayu Astuti, A.Md.AK",
+      "nama_unit_kerja": "Instalasi  Laboratorium Terpadu",
+      "nama_subunit_kerja": "Instalasi  Laboratorium dan Bank Darah",
+      "kategori_pegawai": "PPPK",
+      "keterangan_menang": null
+    },
+    {
+      "no": 14,
+      "undian_id": 56,
+      "pegawai_id": 993,
+      "namalengkap": "Rudy Kurniawan",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Teratai",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 15,
+      "undian_id": 55,
+      "pegawai_id": 1096,
+      "namalengkap": "Astri Rahmawati",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Melati",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 16,
+      "undian_id": 54,
+      "pegawai_id": 22717,
+      "namalengkap": "dr. Meutia Gebrina, Sp.PD",
+      "nama_unit_kerja": "Kelompok Staf Medik Spesialis Lain",
+      "nama_subunit_kerja": "KK Penyakit Dalam",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 17,
+      "undian_id": 53,
+      "pegawai_id": 1207,
+      "namalengkap": "Anggi Primi Annur Hidayati, AMd.Ak",
+      "nama_unit_kerja": "Instalasi  Laboratorium Terpadu",
+      "nama_subunit_kerja": "Instalasi  Laboratorium dan Bank Darah",
+      "kategori_pegawai": "PPPK",
+      "keterangan_menang": null
+    },
+    {
+      "no": 18,
+      "undian_id": 52,
+      "pegawai_id": 633,
+      "namalengkap": "Rena Masnun, Amd.Kep",
+      "nama_unit_kerja": "Instalasi Rawat Intensif",
+      "nama_subunit_kerja": "Instalasi Rawat Intensif",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 19,
+      "undian_id": 51,
+      "pegawai_id": 1337,
+      "namalengkap": "Windy Dwi Priyatni, A.Md",
+      "nama_unit_kerja": "Instalasi Sistem Informasi Manajemen Rumah Sakit",
+      "nama_subunit_kerja": "Instalasi Sistem Informasi Manajemen Rumah Sakit",
+      "kategori_pegawai": "PPPK",
+      "keterangan_menang": null
+    },
+    {
+      "no": 20,
+      "undian_id": 50,
+      "pegawai_id": 1313,
+      "namalengkap": "Santi Ayu Lestari, S.Kep, Ners",
+      "nama_unit_kerja": "Instalasi Perinatal Terpadu ",
+      "nama_subunit_kerja": "Ruang Kemuning",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 21,
+      "undian_id": 49,
+      "pegawai_id": 1135,
+      "namalengkap": "Amelia Eka Purbasari, SE",
+      "nama_unit_kerja": "Satuan Pemeriksaan Internal",
+      "nama_subunit_kerja": "Satuan Pemeriksa Internal",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 22,
+      "undian_id": 48,
+      "pegawai_id": 609,
+      "namalengkap": "R. Budi Effendi",
+      "nama_unit_kerja": "Instalasi  Laboratorium Terpadu",
+      "nama_subunit_kerja": "Instalasi  Laboratorium dan Bank Darah",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 23,
+      "undian_id": 47,
+      "pegawai_id": 23011,
+      "namalengkap": "Nur Rokhmatin, A.Md.Kes",
+      "nama_unit_kerja": "Instalasi  Laboratorium Terpadu",
+      "nama_subunit_kerja": "Instalasi  Laboratorium dan Bank Darah",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 24,
+      "undian_id": 46,
+      "pegawai_id": 968,
+      "namalengkap": "dr. Yuliatmoko Suryatin, Sp.A",
+      "nama_unit_kerja": "Kelompok Staf Medik Ilmu Kesehatan Anak",
+      "nama_subunit_kerja": "KK Pediatrik Gawat Darurat",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 25,
+      "undian_id": 45,
+      "pegawai_id": 464,
+      "namalengkap": "Minhatun Nihayah, AMK",
+      "nama_unit_kerja": "Instalasi Sterilisasi Sentral dan Binatu",
+      "nama_subunit_kerja": "Sarana Sandang",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 26,
+      "undian_id": 44,
+      "pegawai_id": 22696,
+      "namalengkap": "Putriana Wahyu Nurkhasanah, S.H",
+      "nama_unit_kerja": "Tim Kerja Hukum dan Hubungan Masyarakat",
+      "nama_subunit_kerja": "Tim Kerja Hukum",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 27,
+      "undian_id": 43,
+      "pegawai_id": 22336,
+      "namalengkap": "Eva Herlita Br Regar, AMK",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Pinere Covid",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 28,
+      "undian_id": 42,
+      "pegawai_id": 671,
+      "namalengkap": "Rohmiyati, S.Kep, Ners",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Pinere Covid",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 29,
+      "undian_id": 41,
+      "pegawai_id": 1010,
+      "namalengkap": "Bayu Dwi Oktanto, A.Md.Prs",
+      "nama_unit_kerja": "Instalasi Rekam Medik",
+      "nama_subunit_kerja": "Pendaftaran dan LIRI",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 30,
+      "undian_id": 40,
+      "pegawai_id": 590,
+      "namalengkap": "Parahan",
+      "nama_unit_kerja": "Instalasi Farmasi",
+      "nama_subunit_kerja": "Pelayanan Farmasi Rawat Inap",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 31,
+      "undian_id": 39,
+      "pegawai_id": 484,
+      "namalengkap": "Dr. drg. Muhammad Syafrudin Hak, Sp.BM, M.P.H",
+      "nama_unit_kerja": "Kelompok Staf Medik Gigi dan Mulut",
+      "nama_subunit_kerja": "KK Bedah Mulut",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 32,
+      "undian_id": 38,
+      "pegawai_id": 23029,
+      "namalengkap": "Devi Merawati Sofyan, SKM",
+      "nama_unit_kerja": "Komite Farmasi dan Terapi",
+      "nama_subunit_kerja": "Komite Farmasi dan Terapi",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 33,
+      "undian_id": 37,
+      "pegawai_id": 1232,
+      "namalengkap": "Nuraini Maulidya Fajrin",
+      "nama_unit_kerja": "Tim Kerja Hukum dan Hubungan Masyarakat",
+      "nama_subunit_kerja": "Sub Tim Kerja Hubungan Masyarakat",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 34,
+      "undian_id": 36,
+      "pegawai_id": 583,
+      "namalengkap": "Nuryati, S.Kep., Ners",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Cempaka",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 35,
+      "undian_id": 35,
+      "pegawai_id": 178,
+      "namalengkap": "Eko Jonianto, AMK",
+      "nama_unit_kerja": "Instalasi Bedah Sentral ",
+      "nama_subunit_kerja": "Kamar Operasi",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 36,
+      "undian_id": 34,
+      "pegawai_id": 1181,
+      "namalengkap": "Safitri Wulandari, A.Md.RS",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Gambir",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 37,
+      "undian_id": 33,
+      "pegawai_id": 193,
+      "namalengkap": "Endah Kurniawati, S.Kep., Ners",
+      "nama_unit_kerja": "Instalasi Perinatal Terpadu ",
+      "nama_subunit_kerja": "Ruang Seruni",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 38,
+      "undian_id": 32,
+      "pegawai_id": 1027,
+      "namalengkap": "Dhimas Arief Rahman",
+      "nama_unit_kerja": "Instalasi Sterilisasi Sentral dan Binatu",
+      "nama_subunit_kerja": "Sterilisasi Sentral",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 39,
+      "undian_id": 31,
+      "pegawai_id": 1202,
+      "namalengkap": "Yulia Muharomah, SE",
+      "nama_unit_kerja": "Instalasi Verifikasi dan Penjaminan Pasien",
+      "nama_subunit_kerja": "Instalasi Verifikasi dan Penjaminan Pasien",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 40,
+      "undian_id": 30,
+      "pegawai_id": 652,
+      "namalengkap": "Rina Ika Wulandari, AMK",
+      "nama_unit_kerja": "Instalasi Perinatal Terpadu ",
+      "nama_subunit_kerja": "Ruang Kemuning",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 41,
+      "undian_id": 29,
+      "pegawai_id": 1093,
+      "namalengkap": "Anyes Yoshita Dewi",
+      "nama_unit_kerja": "Instalasi Gizi",
+      "nama_subunit_kerja": "Produksi dan Distribusi",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 42,
+      "undian_id": 28,
+      "pegawai_id": 759,
+      "namalengkap": "Sri Puspawati, AMK",
+      "nama_unit_kerja": "Instalasi Rawat Intensif",
+      "nama_subunit_kerja": "Instalasi Rawat Intensif",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 43,
+      "undian_id": 27,
+      "pegawai_id": 174,
+      "namalengkap": "Eka Pangestuningsih, AMK",
+      "nama_unit_kerja": "Instalasi Rawat Intensif",
+      "nama_subunit_kerja": "Instalasi Rawat Intensif",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 44,
+      "undian_id": 26,
+      "pegawai_id": 713,
+      "namalengkap": "Seniorita Simbolon, S.Kep, Ners",
+      "nama_unit_kerja": "Instalasi Rawat Intensif",
+      "nama_subunit_kerja": "Instalasi Rawat Intensif",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 45,
+      "undian_id": 25,
+      "pegawai_id": 1421,
+      "namalengkap": "dr. Yusrita Primasri",
+      "nama_unit_kerja": "Kelompok Staf Medik Umum",
+      "nama_subunit_kerja": "KK Umum",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 46,
+      "undian_id": 24,
+      "pegawai_id": 22831,
+      "namalengkap": "Fuad Latief Mustofa, A.Md.Rad",
+      "nama_unit_kerja": "Instalasi Radiologi",
+      "nama_subunit_kerja": "Pelayanan",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 47,
+      "undian_id": 23,
+      "pegawai_id": 70,
+      "namalengkap": "Astoko",
+      "nama_unit_kerja": "Tim Kerja Tata Usaha dan Rumah Tangga",
+      "nama_subunit_kerja": "Sub Tim Kerja Rumah Tangga",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 48,
+      "undian_id": 22,
+      "pegawai_id": 22654,
+      "namalengkap": "dr. Mardy Pangarungan, M.Sc., Sp. A",
+      "nama_unit_kerja": "Kelompok Staf Medik Ilmu Kesehatan Anak",
+      "nama_subunit_kerja": "KK Pediatrik Gawat Darurat",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 49,
+      "undian_id": 20,
+      "pegawai_id": 516,
+      "namalengkap": "Napiyar",
+      "nama_unit_kerja": "Instalasi Farmasi",
+      "nama_subunit_kerja": "Pelayanan Logistik dan Administrasi",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 50,
+      "undian_id": 19,
+      "pegawai_id": 278,
+      "namalengkap": "Helfive Rioza, SKM",
+      "nama_unit_kerja": "Instalasi Bedah Sentral ",
+      "nama_subunit_kerja": "Anestesi dan RRS",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 51,
+      "undian_id": 18,
+      "pegawai_id": 988,
+      "namalengkap": "Narjo",
+      "nama_unit_kerja": "Instalasi Gizi",
+      "nama_subunit_kerja": "Produksi dan Distribusi",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 52,
+      "undian_id": 17,
+      "pegawai_id": 22439,
+      "namalengkap": "Agus Supriatna, A.Md.Kes",
+      "nama_unit_kerja": "Instalasi Rekam Medik",
+      "nama_subunit_kerja": "Pendaftaran dan LIRI",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 53,
+      "undian_id": 16,
+      "pegawai_id": 936,
+      "namalengkap": "dr. Winda Azwani, Sp.A (K)",
+      "nama_unit_kerja": "Kelompok Staf Medik Ilmu Kesehatan Anak",
+      "nama_subunit_kerja": "KK Kardiologi Anak",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 54,
+      "undian_id": 15,
+      "pegawai_id": 775,
+      "namalengkap": "Suciati Puji Lestari, AMK",
+      "nama_unit_kerja": "Instalasi Bedah Sentral ",
+      "nama_subunit_kerja": "Kamar Operasi",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 55,
+      "undian_id": 14,
+      "pegawai_id": 1153,
+      "namalengkap": "Anantusia Fitriana, S.Kep, Ners",
+      "nama_unit_kerja": "Instalasi Perinatal Terpadu ",
+      "nama_subunit_kerja": "Ruang Kemuning",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 56,
+      "undian_id": 13,
+      "pegawai_id": 1108,
+      "namalengkap": "Ruci Lestari, A.Md.Gz",
+      "nama_unit_kerja": "Instalasi Gizi",
+      "nama_subunit_kerja": "Pelayanan Gizi",
+      "kategori_pegawai": "PPPK",
+      "keterangan_menang": null
+    },
+    {
+      "no": 57,
+      "undian_id": 12,
+      "pegawai_id": 1363,
+      "namalengkap": "Ghabita Nindya Puteri, A.Md",
+      "nama_unit_kerja": "Instalasi Verifikasi dan Penjaminan Pasien",
+      "nama_subunit_kerja": "Instalasi Verifikasi dan Penjaminan Pasien",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 58,
+      "undian_id": 10,
+      "pegawai_id": 263,
+      "namalengkap": "Halimah, AMK",
+      "nama_unit_kerja": "Instalasi Rawat Inap",
+      "nama_subunit_kerja": "Ruang Gambir",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 59,
+      "undian_id": 9,
+      "pegawai_id": 22700,
+      "namalengkap": "Nila Melinda, S.Tr.Kes",
+      "nama_unit_kerja": "Instalasi Radiologi",
+      "nama_subunit_kerja": "Pelayanan",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 60,
+      "undian_id": 8,
+      "pegawai_id": 1070,
+      "namalengkap": "Sagung Sadono, A.Md",
+      "nama_unit_kerja": "Tim Kerja Hukum dan Hubungan Masyarakat",
+      "nama_subunit_kerja": "Sub Tim Kerja Hubungan Masyarakat",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 61,
+      "undian_id": 7,
+      "pegawai_id": 700,
+      "namalengkap": "Sandra Erlinawati Nugroho, SKM",
+      "nama_unit_kerja": "Tim Kerja Pendidikan dan Pelatihan",
+      "nama_subunit_kerja": "Sub Tim Kerja Pelatihan",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 62,
+      "undian_id": 6,
+      "pegawai_id": 1106,
+      "namalengkap": "Dewi Rosmayati, S.I.Kom",
+      "nama_unit_kerja": "Tim Kerja Hukum dan Hubungan Masyarakat",
+      "nama_subunit_kerja": "Sub Tim Kerja Hubungan Masyarakat",
+      "kategori_pegawai": "PPPK",
+      "keterangan_menang": null
+    },
+    {
+      "no": 63,
+      "undian_id": 5,
+      "pegawai_id": 1157,
+      "namalengkap": "Liana Rahmawati, S.E",
+      "nama_unit_kerja": "Unit Layanan Pengadaan Barang\/Jasa",
+      "nama_subunit_kerja": "Sub-Instalasi Perencanaan Pengadaan Barang\/Jasa",
+      "kategori_pegawai": null,
+      "keterangan_menang": null
+    },
+    {
+      "no": 64,
+      "undian_id": 4,
+      "pegawai_id": 879,
+      "namalengkap": "Tika Yulianti, Amd.Kep",
+      "nama_unit_kerja": "Instalasi Bedah Sentral ",
+      "nama_subunit_kerja": "Anestesi dan RRS",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 65,
+      "undian_id": 3,
+      "pegawai_id": 32,
+      "namalengkap": "Dr. dr. Agus Supriyadi, Sp.OG",
+      "nama_unit_kerja": "Kelompok Staf Medik Obstetri dan Ginekologi",
+      "nama_subunit_kerja": "KK Infertilitas dan Endokrin",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 66,
+      "undian_id": 2,
+      "pegawai_id": 22631,
+      "namalengkap": "dr. Hendra Kusuma, Sp.An",
+      "nama_unit_kerja": "Instalasi Rawat Intensif",
+      "nama_subunit_kerja": "Instalasi Rawat Intensif",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    },
+    {
+      "no": 67,
+      "undian_id": 1,
+      "pegawai_id": 176,
+      "namalengkap": "Eka Rachmawati, A.md.RS",
+      "nama_unit_kerja": "Tim Kerja Pendidikan dan Pelatihan",
+      "nama_subunit_kerja": "Sub Tim Kerja Pendidikan",
+      "kategori_pegawai": "PNS",
+      "keterangan_menang": null
+    }
+  ],
+  "as": "ERRR_"
+}
